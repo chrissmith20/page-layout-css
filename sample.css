@@ -1,0 +1,68 @@
+body {
+  background-color: #E5F3F4;
+}
+
+nav h1 {
+  color: white;
+  font-family: 'Alegreya';
+}
+
+h3 {
+  color: white;
+  font-weight: lighter;
+  font-size: 14px
+
+}
+
+nav {
+  background-color: #3498DA;
+  margin: auto;
+}
+
+div h4 {
+  margin-left: 40px;
+}
+
+a {
+  margin-left: 70px;
+}
+
+footer a {
+  margin-left: 70px;
+}
+
+.quoted-from {
+  text-align: right;
+}
+
+.sub-title {
+  height: 60px;
+  width: 200px;
+}
+
+.quote {
+  font-size: 12px;
+  background-color: #61CD72;
+  text-align: center;
+  border: solid;
+}
+
+.try-it-now {
+  font-size: 12px;
+  background-color: #E74C3C;
+  border-radius: 10px;
+  margin-left: 450px;
+  height: 90px;
+  width: 200px;
+  border: solid;
+  border-color: #C0392B;
+  text-align: normal;
+}
+
+.content-wrapper {
+  background-color: #2B3E50;
+}
+
+footer {
+  background-color: #1C2123;
+}
